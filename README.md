@@ -12,7 +12,7 @@ Data Transformation:
 Date Processing: Convert the 'Date Local' column to a date type to facilitate time-series analysis.
 Categorical Data: Ensure that categorical columns like State, Country, and City are correctly recognized for better filtering and slicing.
 Visualization Creation:
-# ***DASHBOARD LINK* : https://app.powerbi.com/groups/me/reports/5de69edb-74e5-4cbd-8267-c570d65758de/ReportSectionc252d482c20caae7abe2?experience=power-bi
+# ***DASHBOARD LINK*** : https://app.powerbi.com/groups/me/reports/5de69edb-74e5-4cbd-8267-c570d65758de/ReportSectionc252d482c20caae7abe2?experience=power-bi
 
 Map Visualization: Create a map to visualize the distribution of Airbnb listings and corresponding air quality metrics across different locations.
 Time-Series Analysis: Use line charts to track changes in air quality indicators over time for different states and cities.
